@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Test1111",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "waguriismp.aternos.me",
     "port": 58031,
-    "version": "1.21.1"
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
